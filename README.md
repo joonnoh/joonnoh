@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joonnoh
-- 👀 I’m interested in Software/Cloud Engineering and VR Development
-- 🌱 I’m currently learning AWS and Unity
-- 💞️ I’m looking to collaborate with cool people on any project
+- 👀 I’m interested in Information Security and VR Development
+- 🌱 I’m currently learning from TryHackMe
+- 💞️ I’m looking to pivot into Cybersecurity as a Penetration Tester
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/joonnoh/)
 
 <!---
