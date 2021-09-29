@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joonnoh
 - 👀 I’m interested in Information Security and VR Development
 - 🌱 I’m currently learning from TryHackMe
-![alt text]<img src="https://tryhackme-badges.s3.amazonaws.com/Injoonuity.png" alt="TryHackMe">
+![alt text](<img src="https://tryhackme-badges.s3.amazonaws.com/Injoonuity.png" alt="TryHackMe">)
 - 💞️ I’m looking to pivot into Cybersecurity as a Penetration Tester
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/joonnoh/)
 
