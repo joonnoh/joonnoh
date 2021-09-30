@@ -2,7 +2,7 @@
 - 👀 I’m interested in Information Security and VR Development
 - 🌱 I’m currently learning from TryHackMe
 
-     ![tryhackme-badge](badge.png)
+     <a href="https://tryhackme.com/p/Injoonuity">![tryhackme-badge](badge.png)</a>
 
 
 - 💞️ I’m looking to pivot into Cybersecurity as a Penetration Tester
