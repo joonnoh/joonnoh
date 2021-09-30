@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joonnoh
-- 👀 I’m interested in Information Security and VR Development
+- 👀 I’m interested in Information Security and AR/VR Development
 - 🌱 I’m currently learning from TryHackMe
 
      <a href="https://tryhackme.com/p/Injoonuity">![tryhackme-badge](badge.png)</a>
