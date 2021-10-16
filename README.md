@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @joonnoh
-- 👀 I’m interested in Information Security and AR/VR Development
-- 🌱 I’m currently learning from TryHackMe
+- 👀 Looking to use Linux sysadmin experience and self-learning to move into Cloud/Devops engineering role
+- 🌱 Currently learning AWS
+- 💞️ Curious about Cybersecurity, AR/VR Development, and Blockchain
+     Learning for fun from TryHackMe
 
      <a href="https://tryhackme.com/p/Injoonuity">![tryhackme-badge](badge.png)</a>
 
 
-- 💞️ I’m looking to pivot into Cybersecurity as a Penetration Tester
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/joonnoh/)
 
 <!---
