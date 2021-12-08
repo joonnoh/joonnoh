@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @joonnoh
-- 👀 Looking to use Linux Sysadmin experience and self-learning to move into Cloud/DevOps engineering role
+- 👀 Looking to use Linux Sysadmin experience and self-learning to transition into Cloud Development engineering role
 -      What I know: Linux, Python, Bash
 -      What I want to know: AWS, CI/CD, Tools (Terraform, Kubernetes, Ansible, Docker, etc)
 - 🌱 Currently learning AWS
-- 💞️ Curious about Cybersecurity, AR/VR Development, and Blockchain
--    Learning for fun from TryHackMe
+- 💞️ Curious about AR/VR Development
+-    Learning Cybersecurity for fun from TryHackMe
 
      <a href="https://tryhackme.com/p/Injoonuity">![tryhackme-badge](badge.png)</a>
 
