@@ -3,7 +3,7 @@
 -      What I know: Linux, Python, Bash
 -      What I want to know: AWS, CI/CD, Tools (Terraform, Kubernetes, Ansible, Docker, etc)
 - 🌱 Currently learning AWS
-- 💞️ Curious about AR/VR Development
+- 💞️ Curious about Mobile and AR/VR Development
 -    Learning Cybersecurity for fun from TryHackMe
 
      <a href="https://tryhackme.com/p/Injoonuity">![tryhackme-badge](badge.png)</a>
