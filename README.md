@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joonnoh
-- 👀 Looking to use Linux Sysadmin experience and self-learning to transition into Cloud Development engineering role
+- 👀 Linux SysAdmin looking to become a Cloud Development engineer
 -      What I know: Linux, Python, Bash
 -      What I want to know: AWS, CI/CD, Tools (Terraform, Kubernetes, Ansible, Docker, etc)
 - 🌱 Currently learning AWS
