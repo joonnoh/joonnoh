@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @joonnoh
-- 👀 Linux SysAdmin looking to become a Cloud Development engineer
+- 💻 Linux SysAdmin at Visa and Computer Science student at Oregon State University
+- 👀 Looking to become a Software Engineer
 -      What I know:
          Programming Languages - Python, Bash, HTML, CSS, JavaScript
          Tools - AWS, Linux, Terraform, Git, GitHub
 -      What I want to know:
          Kubernetes, Docker, React
-- 💞️ Curious about Mobile/AR/VR Development
+- 💞️ Curious about Cloud, Mobile Application, and AR/VR development
 - 🌱 Learning Cybersecurity for fun from TryHackMe
 
      <a href="https://tryhackme.com/p/Injoonuity">![tryhackme-badge](badge.png)</a>
