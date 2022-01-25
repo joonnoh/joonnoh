@@ -6,6 +6,8 @@
          Tools - AWS, Linux, Terraform, Git, GitHub
 -      What I want to know:
          Kubernetes, Docker, React
+-      What I'm learning now:
+-        Swift, Xcode, iOS development
 - 💞️ Curious about Cloud, Mobile Application, and AR/VR development
 - 🌱 Learning Cybersecurity for fun from TryHackMe
 
