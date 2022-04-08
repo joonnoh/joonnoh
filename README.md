@@ -6,16 +6,16 @@
 - What I know:
 
          Programming Languages - Python, Bash, HTML, CSS, JavaScript
-         Tools - AWS, Linux, Terraform, Git, GitHub
+         Tools - Linux, AWS, Terraform, Git, GitHub
 - What I want to know:
 
-         Kubernetes, Docker, React
+         Unity, C#, XR (eXtended Reality) development
          
 - What I'm learning now:
 
          Swift, Xcode, iOS development
          
-💞️ Curious about Cloud, Mobile Application, and AR/VR development
+💞️ Curious about AR/VR, Mobile Application, and Cloud development
 
 🌱 Learning Cybersecurity for fun from TryHackMe
 
