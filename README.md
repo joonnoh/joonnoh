@@ -1,6 +1,6 @@
 👋 Hi, I’m @joonnoh
 
-💻 Linux SysAdmin at Visa and Computer Science student at Oregon State University
+💻 Currently Production Operations Engineer at Meta and Computer Science student at Oregon State University. Previously Linux SysAdmin at Visa.
 
 👀 Looking to become a Software Engineer
 - What I know:
@@ -9,7 +9,7 @@
          Tools - Linux, AWS, Terraform, Git, GitHub
 - What I want to know:
 
-         Unity, C#, XR (eXtended Reality) development
+         Unity, C#, AR/VR/XR development
          
 - What I'm learning now:
 
